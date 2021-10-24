@@ -1,8 +1,9 @@
 # NLW HEAT
 
-### Tecnologias usadas
+### Technology
 * TypeScript
 * NodeJS
 * Prisma
 
-### Projeto desenvolvido na NLW da Rocketseat.
+Developed in "NLW Heat" from Rocketseat.
+ 
