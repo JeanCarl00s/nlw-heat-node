@@ -1,6 +1,6 @@
 # NLW HEAT
 
-### Technology
+### Technologies
 * TypeScript
 * NodeJS
 * Prisma
